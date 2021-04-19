@@ -1,0 +1,13 @@
+D:\exerc-logic\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.exe
+D:\exerc-logic\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.deps.json
+D:\exerc-logic\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.runtimeconfig.json
+D:\exerc-logic\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.runtimeconfig.dev.json
+D:\exerc-logic\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.dll
+D:\exerc-logic\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.pdb
+D:\exerc-logic\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.csprojAssemblyReference.cache
+D:\exerc-logic\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.AssemblyInfoInputs.cache
+D:\exerc-logic\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.AssemblyInfo.cs
+D:\exerc-logic\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.csproj.CoreCompileInputs.cache
+D:\exerc-logic\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.dll
+D:\exerc-logic\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.pdb
+D:\exerc-logic\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.genruntimeconfig.cache

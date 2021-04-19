@@ -1,0 +1,12 @@
+D:\exerc-logic\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.exe
+D:\exerc-logic\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.deps.json
+D:\exerc-logic\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.runtimeconfig.json
+D:\exerc-logic\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.runtimeconfig.dev.json
+D:\exerc-logic\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.dll
+D:\exerc-logic\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.pdb
+D:\exerc-logic\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.AssemblyInfoInputs.cache
+D:\exerc-logic\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.AssemblyInfo.cs
+D:\exerc-logic\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.csproj.CoreCompileInputs.cache
+D:\exerc-logic\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.dll
+D:\exerc-logic\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.pdb
+D:\exerc-logic\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.genruntimeconfig.cache
