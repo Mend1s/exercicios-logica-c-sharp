@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\atividades-logica\\ex10\\ex10\\ex10.csproj",
-      "projectName": "ex10",
-      "projectPath": "D:\\atividades-logica\\ex10\\ex10\\ex10.csproj",
+      "projectUniqueName": "D:\\atividades-logica\\ex13\\ex13\\ex13.csproj",
+      "projectName": "ex13",
+      "projectPath": "D:\\atividades-logica\\ex13\\ex13\\ex13.csproj",
       "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
-      "outputPath": "D:\\atividades-logica\\ex10\\ex10\\obj\\",
+      "outputPath": "D:\\atividades-logica\\ex13\\ex13\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\berna\\AppData\\Roaming\\NuGet\\NuGet.Config",
