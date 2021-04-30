@@ -1,0 +1,12 @@
+D:\atividades-logica\ex17\ex17\bin\Debug\netcoreapp3.1\ex17.exe
+D:\atividades-logica\ex17\ex17\bin\Debug\netcoreapp3.1\ex17.deps.json
+D:\atividades-logica\ex17\ex17\bin\Debug\netcoreapp3.1\ex17.runtimeconfig.json
+D:\atividades-logica\ex17\ex17\bin\Debug\netcoreapp3.1\ex17.runtimeconfig.dev.json
+D:\atividades-logica\ex17\ex17\bin\Debug\netcoreapp3.1\ex17.dll
+D:\atividades-logica\ex17\ex17\bin\Debug\netcoreapp3.1\ex17.pdb
+D:\atividades-logica\ex17\ex17\obj\Debug\netcoreapp3.1\ex17.AssemblyInfoInputs.cache
+D:\atividades-logica\ex17\ex17\obj\Debug\netcoreapp3.1\ex17.AssemblyInfo.cs
+D:\atividades-logica\ex17\ex17\obj\Debug\netcoreapp3.1\ex17.csproj.CoreCompileInputs.cache
+D:\atividades-logica\ex17\ex17\obj\Debug\netcoreapp3.1\ex17.dll
+D:\atividades-logica\ex17\ex17\obj\Debug\netcoreapp3.1\ex17.pdb
+D:\atividades-logica\ex17\ex17\obj\Debug\netcoreapp3.1\ex17.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\atividades-logica\ex15\ex15\bin\Debug\netcoreapp3.1\ex15.exe
+D:\atividades-logica\ex15\ex15\bin\Debug\netcoreapp3.1\ex15.deps.json
+D:\atividades-logica\ex15\ex15\bin\Debug\netcoreapp3.1\ex15.runtimeconfig.json
+D:\atividades-logica\ex15\ex15\bin\Debug\netcoreapp3.1\ex15.runtimeconfig.dev.json
+D:\atividades-logica\ex15\ex15\bin\Debug\netcoreapp3.1\ex15.dll
+D:\atividades-logica\ex15\ex15\bin\Debug\netcoreapp3.1\ex15.pdb
+D:\atividades-logica\ex15\ex15\obj\Debug\netcoreapp3.1\ex15.csprojAssemblyReference.cache
+D:\atividades-logica\ex15\ex15\obj\Debug\netcoreapp3.1\ex15.AssemblyInfoInputs.cache
+D:\atividades-logica\ex15\ex15\obj\Debug\netcoreapp3.1\ex15.AssemblyInfo.cs
+D:\atividades-logica\ex15\ex15\obj\Debug\netcoreapp3.1\ex15.csproj.CoreCompileInputs.cache
+D:\atividades-logica\ex15\ex15\obj\Debug\netcoreapp3.1\ex15.dll
+D:\atividades-logica\ex15\ex15\obj\Debug\netcoreapp3.1\ex15.pdb
+D:\atividades-logica\ex15\ex15\obj\Debug\netcoreapp3.1\ex15.genruntimeconfig.cache
